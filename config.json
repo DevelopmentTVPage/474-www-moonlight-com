@@ -1,0 +1,15 @@
+{
+    "title": "Project 2",
+    "baseURL": "http:\/\/www.moonlight.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "moonlight.com"
+    }
+}
